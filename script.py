@@ -1,6 +1,7 @@
 #! /usr/bin/env python
 
 import functions
+#import classes
 
 s = "he" # raw_input("Subject: ")
 v = "write" # raw_input("Base verb: ")
